@@ -1,0 +1,28 @@
+name: Ben. L. Photography
+favicon: null
+layout_spectrum: 0.43940557120367885
+typography_spectrum: 0.07068000547587872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.63461161009036
+  lightness: 0.024912500521168113
+  saturation: 0.21747345617040992
+  rhythmicContrast: 0.8044966883026063
+purpose: []
