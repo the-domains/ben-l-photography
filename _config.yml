@@ -1,28 +1,40 @@
-name: Ben. L. Photography
 favicon: null
-layout_spectrum: 0.43940557120367885
-typography_spectrum: 0.07068000547587872
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Ben. L. Photography
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2174734561704099
+  brandStrength: 0.63461161009036
+  rhythmicContrast: 0.8044966883026063
   brandColors:
     - '#020308'
     - '#ffffff'
     - '#babc95'
     - '#7d8172'
     - '#0091ae'
-  brandStrength: 0.63461161009036
-  lightness: 0.024912500521168113
-  saturation: 0.21747345617040992
-  rhythmicContrast: 0.8044966883026063
-purpose: []
+  lightness: 0.02491250052116811
+typography_spectrum: 0.07068000547587872
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5143369
+analytics:
+  twitter: null
+  google: null
+  facebook: null
