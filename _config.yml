@@ -1,9 +1,30 @@
-favicon: null
-name: Ben. L. Photography
+typography_spectrum: 0.07068000547587872
+color:
+  saturation: 0.2174734561704099
+  brandStrength: 0.63461161009036
+  rhythmicContrast: 0.8044966883026063
+  brandColors:
+    - '#020308'
+    - '#ffffff'
+    - '#babc95'
+    - '#7d8172'
+    - '#0091ae'
+  lightness: 0.02491250052116811
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5143369
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Ben. L. Photography
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Testing
 purpose: []
-color:
-  saturation: 0.2174734561704099
-  brandStrength: 0.63461161009036
-  rhythmicContrast: 0.8044966883026063
-  brandColors:
-    - '#020308'
-    - '#ffffff'
-    - '#babc95'
-    - '#7d8172'
-    - '#0091ae'
-  lightness: 0.02491250052116811
-typography_spectrum: 0.07068000547587872
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5143369
-analytics:
-  twitter: null
-  google: null
-  facebook: null
