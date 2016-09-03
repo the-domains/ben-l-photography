@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testing]]></title>
+        <description><![CDATA[Testing]]></description>
+        <link>https://thegrid.ai/ben-l-photography/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 13:22:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ben-l-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It’s all about that Sunrise]]></title>
+            <description><![CDATA[<article><h1>It’s all about that Sunrise</h1><p>It's all about that Sunrise</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b3008f1-c53d-4ad7-9044-af4fcc9e4544.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ben-l-photography/53b82b6f-9e54-47b0-96b5-0ea137f13cf0/index.html</link>
+            <guid isPermaLink="false">53b82b6f-9e54-47b0-96b5-0ea137f13cf0</guid>
+            <pubDate>Wed, 31 Aug 2016 13:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdbb300d-ebd4-4492-94ee-462f7e3ba887.jpg">]]></description>
+            <link>https://thegrid.ai/ben-l-photography/cdad697a-c09d-4c4f-90d8-5d819ec9133b/index.html</link>
+            <guid isPermaLink="false">cdad697a-c09d-4c4f-90d8-5d819ec9133b</guid>
+            <pubDate>Wed, 31 Aug 2016 13:13:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
